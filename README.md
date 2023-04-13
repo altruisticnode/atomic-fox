@@ -17,6 +17,8 @@
   * [Firefox CSS](#firefox-css)
   * [Night Tab Configuration](#night-tab-configuration)
 - [Preview](#preview)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
 
 ## About <a name = "about-the-project"></a>
 ### Description <a name = "description"></a>
@@ -49,3 +51,14 @@ All previews can be found in the [preview](/preview/) directory. It includes a w
 <p align="center">
     <img src="./preview/block-preview.png"></img>
 </p>
+
+## License <a name = "license"></a>
+Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. 
+
+Please see the [LICENSE](/LICENSE) for more information.
+
+## Acknowledgements <a name = "acknowledgements"></a>
+This section includes a useful list of sources that have helped my project— Either directly, or through other means such as inspiration.
+- [Mozilla's Firefox](https://www.mozilla.org/firefox/)
+- [Night Tab Extension](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
+- [Amadeus's NT Configuration](https://github.com/AmadeusWM)
