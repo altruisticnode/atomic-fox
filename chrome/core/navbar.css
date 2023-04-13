@@ -1,0 +1,14 @@
+toolbar#nav-bar {
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+toolbarbutton#back-button,
+toolbarbutton#forward-button {
+  display: none !important;
+}
+
+toolbox#navigator-toolbox,
+hbox#urlbar-background {
+  border: none !important;
+}
