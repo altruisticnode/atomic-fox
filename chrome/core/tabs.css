@@ -1,0 +1,18 @@
+tabs#tabbrowser-tabs {
+    border-inline-start: initial !important;
+    padding-inline-start: initial !important;
+    margin-inline-start: initial !important;
+}
+
+hbox.titlebar-spacer,
+toolbarbutton#firefox-view-button {
+    display: none !important;
+}
+
+vbox.tab-background {
+    margin-block: initial !important;
+}
+
+vbox.tab-label-container {
+    height: fit-content !important;
+}
