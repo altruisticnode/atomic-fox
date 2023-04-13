@@ -26,6 +26,22 @@ As an addition, this also includes an optional configuration set for the [Night 
 
 As the name *atomic* implies, this is a very minimal configuration. You can view all of the stylesheet overrides in the [chrome](/chrome/) directory.
 
+## Getting Started <a name = "getting-started"></a>
+### Firefox CSS <a name = "firefox-css"></a>
+1. Head over to `about:config` in Firefox.
+    - Set `toolkit.legacyUserProfileCustomizations.stylesheets` to true
+    - Set `browser.compactmode.show` to true
+2. Head over to `about:support` and find your `Profile Directory`
+3. Copy the entire [chrome](/chrome/) folder into the `Profile Directory`.
+4. Enable compact mode (density) through the [Toolbar Settings](https://support.mozilla.org/en-US/kb/customize-firefox-controls-buttons-and-toolbars)
+5. Restart Firefox and you're good to go 😉.
+
+### Night Tab Configuration <a name = "night-tab-configuration"></a>
+1. Install the extension through Firefox: [Night Tab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
+2. Click into the settings (gear icon) on the top right.
+3. Navigate to the `Data` tab on the sidebar.
+4. Import the `config.json` from the [night-tab directory](/night-tab/)
+
 ## Preview <a name = "preview"></a>
 All previews can be found in the [preview](/preview/) directory. It includes a wide preview, a block preview, and a preview with depth perspective.
 
