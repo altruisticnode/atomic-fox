@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./preview/wide-preview.png"></img>
+    <img src="./preview/wide.png"></img>
 </p>
 <h3 align="center">Atomic Fox</h3>
 
@@ -50,7 +50,7 @@ All previews can be found in the [preview](/preview/) directory. It includes a w
 
 <h4 align="center">Block Style Preview (From Window Manager)</h4>
 <p align="center">
-    <img src="./preview/block-preview.png"></img>
+    <img src="./preview/block.png"></img>
 </p>
 
 ## License <a name = "license"></a>
