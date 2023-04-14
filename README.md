@@ -54,7 +54,7 @@ All previews can be found in the [preview](/preview/) directory. It includes a w
 </p>
 
 ## License <a name = "license"></a>
-Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. 
+Distributed under the [MIT](https://opensource.org/licenses/MIT) License. 
 
 Please see the [LICENSE](/LICENSE) for more information.
 
